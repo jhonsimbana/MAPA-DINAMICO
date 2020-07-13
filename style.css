@@ -1,0 +1,8 @@
+#map { 
+    height: 98vh; 
+    width: 100hw; 
+  }
+  select {
+    width: 30%;
+    font-size: 2rem
+  } 
